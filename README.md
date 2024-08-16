@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="" alt="Capa do Repositorio">
+  <img src="https://github.com/user-attachments/assets/16ea01b0-f261-4801-afa3-923486ebdfd0" alt="Capa do Repositorio">
 </div>
 
-<h1 align="center"> Aprendizagem de IA </h1>
-
+<h1 align="center"> Aprendendo IA </h1>
 
 ### 1. Objetivo de Aprendizagem
 
