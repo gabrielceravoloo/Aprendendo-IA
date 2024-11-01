@@ -20,6 +20,7 @@ No meus estudos prentendo abordar uma ampla gama de tópicos, incluindo: Process
 
 Planejo desenvolver projetos baseados em problemas reais, empregando metodologia ágil para a gestão de projetos
 
-### Dicas e Outros
+### 4. Plataformas com datasets
 
 https://www.kaggle.com/datasets
+https://huggingface.co/
